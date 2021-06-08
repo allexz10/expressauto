@@ -173,7 +173,7 @@ margin-bottom: 3.645rem;
 }
 
 .button--decor::after{    
-    content: 'ЖМИ';
+    content: 'click';
     position: absolute;    
     color: #C4C4C4;   
     margin-left: 8.125rem;    
